@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raycaster", "Raycaster\Raycaster.vcxproj", "{A045A78C-8902-4237-96CA-AD0CA236774C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Debug|x64.ActiveCfg = Debug|x64
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Debug|x64.Build.0 = Debug|x64
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Debug|x86.Build.0 = Debug|Win32
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Release|x64.ActiveCfg = Release|x64
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Release|x64.Build.0 = Release|x64
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Release|x86.ActiveCfg = Release|Win32
+		{A045A78C-8902-4237-96CA-AD0CA236774C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA1EFCAF-3B31-4FFB-9DB8-D874A0AAF7FA}
+	EndGlobalSection
+EndGlobal

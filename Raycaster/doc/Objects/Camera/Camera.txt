@@ -1,0 +1,6 @@
+- 1 vecteur entre la caméra et le milieu de la grille (near)
+- 1 vecteur permettant de définir la distance d'affichage (far)
+- s : la largeur de la grille divisée par 2
+- t : la hauteur de la grille divisée par 2
+- 3 vecteurs d'orientation (pitch, yaw, roll)
+- 1 point de position par rapport au repère monde (x,y,z)
